@@ -2,10 +2,10 @@
 문제를 해결하고 더 나은 서비스를 설계하는 과정에서 보람을 느끼는 프론트엔드 개발자입니다.  
 
 ---
-
 🔭 **Currently building**  
-- [삼성 청년 SW·AI 아카데미(SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) × [🥕당근마켓](https://www.daangn.com/kr/?in=%EA%B5%AC%EC%9D%98%EB%8F%99-6059) 기업연계 프로젝트 진행 중
-- [삼성 청년 SW·AI 아카데미(SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) × [🏦신한은행](https://www.shinhan.com/index.jsp) 해커톤 본선 진출
+- SSAFY × 🥕 [당근마켓](https://www.daangn.com/kr/?in=%EA%B5%AC%EC%9D%98%EB%8F%99-6059) 기업연계 프로젝트 진행 중  
+- SSAFY × 🏦 신한은행 해커톤 본선 진출 ([프로젝트 바로가기](https://github.com/Shinhan-DaeyeohaeYoung/Frontend))
+
 
 기획부터 배포까지 전 과정을 경험하며 서비스의 완성도를 높이기 위해 노력하고 있습니다.
 
