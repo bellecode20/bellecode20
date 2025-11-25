@@ -3,7 +3,7 @@
 
 ---
 🔭 **Currently building**  
-- SSAFY × 🥕 [당근마켓](https://www.daangn.com/kr/?in=%EA%B5%AC%EC%9D%98%EB%8F%99-6059) 기업연계 프로젝트 진행 중  
+- SSAFY × 🥕 [당근마켓](https://www.daangn.com/kr/?in=%EA%B5%AC%EC%9D%98%EB%8F%99-6059) 기업연계 프로젝트 진행  
 - SSAFY × 🏦 신한은행 해커톤 본선 진출 ([프로젝트 바로가기](https://github.com/Shinhan-DaeyeohaeYoung/Frontend))
 
 
